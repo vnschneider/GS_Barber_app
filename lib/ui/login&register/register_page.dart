@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:flutter_icons/flutter_icons.dart';
 import 'package:gsbarber_app/ui/menu%20pages/home_page.dart';
 import 'package:gsbarber_app/ui/widgets/app_outlinedbutton.dart';
@@ -14,7 +15,7 @@ class RegisterPage extends StatelessWidget {
         iconTheme: IconThemeData(color: Colors.white),
         elevation: 0.0,
         toolbarHeight: 0.0,
-        brightness: Brightness.light,
+        systemOverlayStyle: SystemUiOverlayStyle.dark,
       ),
       body: Stack(
         children: [

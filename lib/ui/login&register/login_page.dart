@@ -1,5 +1,6 @@
 import 'package:flutter/gestures.dart';
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 import 'package:google_sign_in/google_sign_in.dart';
 import 'package:flutter_icons/flutter_icons.dart';
 import 'package:gsbarber_app/services/auth_provider_service.dart';
@@ -40,7 +41,7 @@ class _LoginPageState extends State<LoginPage> {
         iconTheme: IconThemeData(color: Colors.white),
         elevation: 0.0,
         toolbarHeight: 0.0,
-        brightness: Brightness.light,
+        systemOverlayStyle: SystemUiOverlayStyle.dark,
       ),
       body: Stack(
         children: [

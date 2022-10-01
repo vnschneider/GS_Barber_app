@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "782382677504",
+    "project_id": "gs-barber",
+    "storage_bucket": "gs-barber.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:782382677504:android:1440dbea427e09fde7e2e5",
+        "android_client_info": {
+          "package_name": "com.gsbarber_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "782382677504-ohgkks8fm7g5oiivvju4hsne6skf65io.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.gsbarber_app",
+            "certificate_hash": "eb19e9c60c94fd1b5b1a8faef5f906f86238bc34"
+          }
+        },
+        {
+          "client_id": "782382677504-1dg22knr7ru91odd5lf3kcnn3qs65odd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCrwe5J-wTxa3UebPDe6c7xQgbsTtA_JZ4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "782382677504-1dg22knr7ru91odd5lf3kcnn3qs65odd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

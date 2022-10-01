@@ -1,4 +1,3 @@
 # gsbarber_app
 
-GS Barbershop App
-
+S Barbershop App

@@ -39,6 +39,9 @@ dependencies:
   sign_button: ^1.0.2
   flutter_easyloading: ^2.2.2
   flutter_icons: ^1.1.0
+  cloud_firestore_web: ^0.3.0+2
+  firebase_auth_web: ^0.3.3
+  firebase_core_web: ^0.2.1+3
 
 dev_dependencies:
   flutter_test:
